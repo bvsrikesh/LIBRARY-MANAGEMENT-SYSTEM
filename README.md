@@ -1,5 +1,8 @@
 # LIBRARY-MANAGEMENT-SYSTEM
 
+[Library Management System.pdf](https://github.com/user-attachments/files/20344297/Library.Management.System.pdf)
+
+
 This C++ project implements a comprehensive Library Management System using Object-Oriented Programming (OOP) principles such as encapsulation, constructors (parameterized, copy, default), and data constraints. It manages books, members, and their interactions with full validation logic.
 
 Library Management System involving three main classes:
@@ -153,5 +156,5 @@ Input Format
       "Invalid request! Book not borrowed"
       "Invalid request! Copy of book exceeds total copies"
       "Invalid request! Count becomes negative"       
-      [Library Management System.pdf](https://github.com/user-attachments/files/20344272/Library.Management.System.pdf)
+    
 
