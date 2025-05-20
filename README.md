@@ -153,4 +153,5 @@ Input Format
       "Invalid request! Book not borrowed"
       "Invalid request! Copy of book exceeds total copies"
       "Invalid request! Count becomes negative"       
-              
+      [Library Management System.pdf](https://github.com/user-attachments/files/20344272/Library.Management.System.pdf)
+
